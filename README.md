@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nandish!
+I am Nandish (n-uh-n-d-ee-sh)
 
 🔭 I’m currently working on - Python, R, Machine Learning, Power BI, Tableau, SQL, AWS
 
